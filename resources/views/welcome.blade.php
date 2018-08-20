@@ -79,10 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    虎科大資管系Laravel
-					<br>
-					自主學習課程
-					
+                    虎科大資管系Laravel <br>
+					 自主學習課程
                 </div>
 
                 <div class="links">
